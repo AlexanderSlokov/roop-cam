@@ -1,3 +1,7 @@
+# Disclamer: I hold the fork of this repo, but I am not own it. Fork and use as your own legal risks if you try to do something nasty. Hate the user, not the knife.
+
+# Anyways, I will try to upgrade and maintain it in the future (when I buy a new computer with a decent GPU, oh course.) But I will not promise this, or promise I will not break the code somewhere.
+
 Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.
 
 You can watch some demos [here](https://drive.google.com/drive/folders/1KHv8n_rd3Lcr2v7jBq1yPSTWM554Gq8e?usp=sharing). A StableDiffusion extension is also available, [here](https://github.com/s0md3v/sd-webui-roop).
